@@ -1,2 +1,2 @@
 # Shop
-E-commerce  website
+E-commerce  website created by Christian Sunday Okoh
